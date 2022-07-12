@@ -18,7 +18,9 @@ Core game loop: Get from A to B by navigating platforms and avoiding traps and e
 
 # Tilemap Pipeline
 ------->------->------->------->------->------->------->------->------->------->
-*Sprite Sheet --> Sliced Sprite --> Tile Asset --> Tile Palette --> Tilemap (scene)
+
+*Sprite Sheet --> Sliced Sprite --> Tile Asset --> Tile Palette --> Tilemap (scene)*
+
 ------->------->------->------->------->------->------->------->------->------->
 
 # Terminology
